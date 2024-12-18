@@ -11,7 +11,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/collaborative-editor.git
+git clone https://github.com/RankMansi/NextJS_EditingInCollaboration.git
 cd collaborative-editor
 Installation
 
